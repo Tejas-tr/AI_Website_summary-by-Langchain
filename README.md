@@ -6,7 +6,7 @@
 ![OpenAI](https://img.shields.io/badge/API-OpenAI-412991?logo=openai&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
-Run aap.py to get url of the app, friendly summary — powered by **LangChain**, **OpenAI**, and a simple **Gradio** UI.
+Run 'app.py' to get url of the app, friendly summary — powered by **LangChain**, **OpenAI**, and a simple **Gradio** UI.
 
 This is an upgraded version of my original summarizer, refactored to use LangChain's composable chain syntax (`prompt | model | parser`) instead of calling the OpenAI API directly.
 
